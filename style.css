@@ -17,8 +17,13 @@ img{
     height: 250px;
     width: 250px;
     background-color: burlywood;
-    border: 10px solid rgb(22, 3, 40);
-    padding: 10px
+    border: 20px solid rgb(36, 7, 64);
+      border-top-color: rgb(96, 66, 124);
+      border-bottom-color: rgb(106, 74, 135);
+      padding-left: 90px;
+      padding-right: 90px;
+      padding-top: 10px;
+      padding-bottom: 10px;
 }
 
  }
