@@ -17,6 +17,7 @@ img{
     height: 250px;
     width: 250px;
     background-color: burlywood;
+    border: 10px solid rgb(22, 3, 40);
 }
 
  }
