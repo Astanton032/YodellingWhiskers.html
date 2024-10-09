@@ -1,8 +1,15 @@
-h1{
-    color: chartreuse;
-    background-color: chocolate;
+h2{
+    color:burlywood
 }
-h1{
+
+li{
+    color:darkorchid
+}
+
+h2{
     text-align: center;
 }
 
+ul{
+    text-align: center;
+}
