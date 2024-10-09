@@ -1,11 +1,34 @@
+#outer-box {
+    background-color: pink;
+}
+
+.box{
+    background-color: cornflowerblue;
+    padding: 30px;
+}
+
+#inner-box{
+    background-color: darkblue;
+}
+
+
+
 *{
     text-align: center;
 }
 
 h1{
-    color: crimson;
+    color: chartreuse;
 }
 
 h2{
-    color: crimson;
+    color: chartreuse;
+}
+
+.green-text{
+    color: beige
+}
+
+.white-text{
+    color: beige;
 }
